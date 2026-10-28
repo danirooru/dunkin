@@ -6,9 +6,9 @@ Landing responsiva de una sola página para Dunkin’, creada a partir de un dis
 
 ## Landing
 
-[Ver el archivo de la landing: dunkin.html](./dunkin.html)
+[Visitar la landing de Dunkin’](https://danirooru.github.io/dunkin/dunkin.html)
 
-Para visualizarla, descarga o clona este repositorio y abre `dunkin.html` en tu navegador, manteniendo la carpeta `assets` a su lado. Las imágenes y fuentes están incluidas localmente; no requiere instalación.
+También puedes verla localmente: descarga o clona este repositorio y abre `dunkin.html` en tu navegador, manteniendo la carpeta `assets` a su lado. Las imágenes y fuentes están incluidas localmente; no requiere instalación.
 
 ## Funciones
 
