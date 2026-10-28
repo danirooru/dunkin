@@ -1,10 +1,14 @@
 # Dunkin’ — Landing page
 
-Landing responsiva de una sola página, hecha en HTML, CSS y JavaScript vanilla a partir del diseño de Figma proporcionado.
+**Autora:** Daniela Róo
 
-## Ver la página
+Landing responsiva de una sola página para Dunkin’, creada a partir de un diseño en Figma con HTML, CSS y JavaScript vanilla. Incluye un catálogo de donas, un armador de cajas, combos, celebraciones, testimonios y animaciones suaves.
 
-Descarga o clona el repositorio y abre `dunkin.html` en tu navegador. Mantén la carpeta `assets` junto al HTML. No requiere instalación; las imágenes y las fuentes están incluidas localmente.
+## Landing
+
+[Ver el archivo de la landing: dunkin.html](./dunkin.html)
+
+Para visualizarla, descarga o clona este repositorio y abre `dunkin.html` en tu navegador, manteniendo la carpeta `assets` a su lado. Las imágenes y fuentes están incluidas localmente; no requiere instalación.
 
 ## Funciones
 
@@ -12,7 +16,7 @@ Descarga o clona el repositorio y abre `dunkin.html` en tu navegador. Mantén la
 - Carrusel de favoritas y selección de donas con cantidades y progreso.
 - Dos grupos de testimonios con imágenes.
 - Preparación local de caja y celebración.
-- Animaciones de tarjetas, productos, botones y secciones, con soporte para reducción de movimiento.
+- Animaciones de tarjetas, productos, botones y secciones que respetan la preferencia de reducir movimiento.
 - HTML semántico, foco visible y controles con nombres accesibles.
 
 ## Notas
